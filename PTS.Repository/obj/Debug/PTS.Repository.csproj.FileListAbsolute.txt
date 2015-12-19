@@ -1,0 +1,7 @@
+F:\PTS\ProjectTrackingSystem\PTS.Repository\bin\Debug\PTS.Repository.dll
+F:\PTS\ProjectTrackingSystem\PTS.Repository\bin\Debug\PTS.Repository.pdb
+F:\PTS\ProjectTrackingSystem\PTS.Repository\bin\Debug\PTS.Core.dll
+F:\PTS\ProjectTrackingSystem\PTS.Repository\bin\Debug\PTS.Core.pdb
+F:\PTS\ProjectTrackingSystem\PTS.Repository\obj\Debug\PTS.Repository.csprojResolveAssemblyReference.cache
+F:\PTS\ProjectTrackingSystem\PTS.Repository\obj\Debug\PTS.Repository.dll
+F:\PTS\ProjectTrackingSystem\PTS.Repository\obj\Debug\PTS.Repository.pdb

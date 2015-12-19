@@ -1,0 +1,9 @@
+F:\PTS\ProjectTrackingSystem\PTS.Service\bin\Debug\PTS.Service.dll
+F:\PTS\ProjectTrackingSystem\PTS.Service\bin\Debug\PTS.Service.pdb
+F:\PTS\ProjectTrackingSystem\PTS.Service\bin\Debug\PTS.Core.dll
+F:\PTS\ProjectTrackingSystem\PTS.Service\bin\Debug\PTS.Repository.dll
+F:\PTS\ProjectTrackingSystem\PTS.Service\bin\Debug\PTS.Core.pdb
+F:\PTS\ProjectTrackingSystem\PTS.Service\bin\Debug\PTS.Repository.pdb
+F:\PTS\ProjectTrackingSystem\PTS.Service\obj\Debug\PTS.Service.csprojResolveAssemblyReference.cache
+F:\PTS\ProjectTrackingSystem\PTS.Service\obj\Debug\PTS.Service.dll
+F:\PTS\ProjectTrackingSystem\PTS.Service\obj\Debug\PTS.Service.pdb
