@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace PTS.Core.Model
 {
-    class ManagerComment
+    public class ManagerComment
     {
+        public int ManagerCommentID { get; set; }
+        public string Comments { get; set; }
+        public int ProjectTaskID { get; set; }
+
+        public virtual ProjectTask ProjectTask { get; set; }
     }
 }

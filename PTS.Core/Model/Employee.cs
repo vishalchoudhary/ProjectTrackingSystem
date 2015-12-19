@@ -9,6 +9,7 @@ namespace PTS.Core.Model
     public class Employee
     {
         public int EmployeeID { get; set; }
+
         public string EmployeeName { get; set; }
         public string Designation { get; set; }
         public int ManagerID { get; set; }
@@ -17,5 +18,6 @@ namespace PTS.Core.Model
         public string SkillSet { get; set; }
 
         public virtual List<ProjectTask> ProjectTasks { get; set;}
+
     }
 }
