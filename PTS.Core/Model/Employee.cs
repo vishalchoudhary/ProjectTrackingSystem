@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace PTS.Core.Model
 {
-    class Employee
+    public class Employee
     {
+        public int EmployeeID { get; set; }
     }
 }
